@@ -1,15 +1,15 @@
-# Figma Land Website
+## Figma Land Website
 
 A responsive static website built using HTML and CSS, deployed on Netlify.
 
-## 🚀 Live Demo
+###  Live Demo
 https://olyd.netlify.app/
 
-## 🛠️ Built With
+###  Built With
 - HTML
 - CSS
 
-## 📌 Features
+###  Features
 - Responsive design
 - Clean UI layout
 - Fast loading performance
